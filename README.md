@@ -34,7 +34,7 @@ https://learn.microsoft.com/ko-kr/windows/win32/WinAuto/uiauto-securityoverview#
 
 ## 실행
 
-핫키
+#### 핫키
 ```
 Ctrl + Alt + H : 판서 모드 
 Ctrl + Alt + Q : 판서 숨기기 
@@ -42,9 +42,10 @@ Ctrl + Alt + Z : 프로그램 종료
 Ctrl + .  : 스크린 줌 인
 Ctrl + ,  : 스크린 줌 아웃
 Ctrl + /  : 스크린 줌 초기화
+Ctrl + Shift + S : 스크린 캡쳐
 ```
-입력 단축키
 
+#### 입력 단축키
 ```
 A,D,W,S : 드로잉 모드로 동작 ( A,D : 기본 팬, W,S : 마커팬 )
 A,D : 기본 팬의 색상을 변경(A 이후, D 이전)
@@ -57,7 +58,7 @@ T : 텍스트 입력 ( Ctrl + Enter )
 Ctrl + Shift + S : 스크린 캡쳐
 ```
 
-편집 단축키
+#### 편집 단축키
 ```
 Ctrl + A : 전체 선택
 Ctrl + X : 잘라내기 
@@ -81,19 +82,19 @@ Ctrl + Shift + 크기조정 : 비율을 맞추어 Shape를 조정한다.
 클립 모드 + Mouse Wheel : 선택된 Shape가 회전한다.
 ```
 
-환경 설정
+#### 환경 설정 단축키
 ```
 Ctrl + F1 : 환경 설정 상자
 ```
 
-컨트롤 박스
+#### 컨트롤 박스
 ```
 F1 : 기본 컨트롤 박스
 F2 : 편집 컨트롤 박스
 F3 : 도형 도구 상자
 ```
 
-줌 단축키
+#### 줌 단축키
 ```
 Ctrl + 마우스 스크롤 : 스크린 줌/아웃
 Ctrl + .  : 스크린 줌 인
@@ -101,7 +102,7 @@ Ctrl + ,  : 스크린 줌 아웃
 Ctrl + /  : 스크린 줌 초기화
 ```
 
-페이지 단축키
+#### 페이지 단축키
 ```
 Ctrl + Insert : 페이지 추가
 Ctrl + Delete : 페이지 삭제
