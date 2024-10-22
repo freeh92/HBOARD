@@ -3,7 +3,7 @@
 ### 1. hboard.exe 파일을 다운로드 받는다.
 ### 2. Microsoft Visual C++ 재배포 가능 패키지 버전을 설치한다. 
 
-https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
+[Microsoft Visual C++ 재배포 가능 패키지 최신 지원되는 다운로드]: https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
 
 ![](vc_redist.x64.png)
 
@@ -24,6 +24,6 @@ https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=ms
 
 ** 주의: 3과 4의 단계의 과정은 매우 중요하며 Windows Application의 중요 요구사항이다.**
 
-https://learn.microsoft.com/ko-kr/windows/win32/WinAuto/uiauto-securityoverview#uiaccess-requirements-for-assistive-technology-applications
+[보조 기술 애플리케이션에 대한 UIAccess 요구 사항]:  https://learn.microsoft.com/ko-kr/windows/win32/WinAuto/uiauto-securityoverview#uiaccess-requirements-for-assistive-technology-applications
 
 ![](uiaccess.png)
