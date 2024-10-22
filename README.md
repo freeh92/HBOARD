@@ -1,6 +1,5 @@
 # HBOARD
 ## 설치
--------------------------------
 ### 1. hboard.exe 파일을 다운로드 받는다.
 ### 2. Microsoft Visual C++ 재배포 가능 패키지 버전을 설치한다. 
 
@@ -34,4 +33,3 @@ https://learn.microsoft.com/ko-kr/windows/win32/WinAuto/uiauto-securityoverview#
 ![](uiaccess.png)
 
 ## 실행
--------------------------------
