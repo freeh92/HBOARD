@@ -34,6 +34,11 @@ https://learn.microsoft.com/ko-kr/windows/win32/WinAuto/uiauto-securityoverview#
 
 ## 실행
 
+#### 팝업 매뉴 
+```
+마우스 오른쪽 
+```
+
 #### 핫키
 ```
 Ctrl + Alt + H : 판서 모드 
@@ -87,7 +92,7 @@ Ctrl + Shift + 크기조정 : 비율을 맞추어 Shape를 조정한다.
 Ctrl + F1 : 환경 설정 상자
 ```
 
-#### 컨트롤 박스
+#### 컨트롤 박스 단축키
 ```
 F1 : 기본 컨트롤 박스
 F2 : 편집 컨트롤 박스
