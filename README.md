@@ -105,13 +105,13 @@ Ctrl + /  : 스크린 줌 초기화
 ```
 Ctrl + Insert : 페이지 추가
 Ctrl + Delete : 페이지 삭제
+Ctrl + 1~9 : 페이지 추가
+Ctrl + `  : 기본 페이지 추가
+Ctrl + Tab : 페이지 보기 ( 페이지 이동/선택, 연속으로 Ctrl +  Tab )
 Home : 첫 페이지로 이동
 End  : 마지막 페이지로 이동
 PageUp : 이전 페이지로 이동
 PageDown : 다음 페이지로 이동
 Tab : 다음 페이지 
 Shift + Tab : 이전 페이지
-Ctrl + Tab : 페이지 보기 ( 페이지 이동/선택, 연속으로 Ctrl +  Tab )
-Ctrl + 1~9 : 페이지 추가
-Ctrl + `  : 기본 페이지 추가
 ```
