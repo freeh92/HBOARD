@@ -1,7 +1,7 @@
 # HBOARD
 ## 1. hboard.exe 파일을 다운로드 받는다.
 ## 2. Microsoft Visual C++ 재배포 가능 패키지 버전을 설치한다. 
- https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
+https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
 ![](vc_redist.x64.png)
 
 ## 3. "C:\Program Files" 폴더에 hboard 폴더를 생성 후 다운로드 한 파일을 넣는다.
@@ -20,4 +20,5 @@
   
 
 ** 주의: 3과 4의 단계의 과정은 매우 중요하며 Windows Application의 중요 요구사항이다.**
+https://learn.microsoft.com/ko-kr/windows/win32/WinAuto/uiauto-securityoverview#uiaccess-requirements-for-assistive-technology-applications
 ![](uiaccess.png)
