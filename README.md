@@ -7,7 +7,7 @@ Windows 10 환경에서 실행될 수 있으나 Zoom 및 Screen Capture 등 몇�
 Windows 10 환경에서 실행하려면 모든 Windows 업데이트를 적용하여 사용한다.
 
 ## 설치
-### 1. hboard.exe 파일을 다운로드 받는다.
+### 1. hboard_버전.exe 파일을 다운로드 받는다.
 ### 2. Microsoft Visual C++ 재배포 가능 패키지 버전을 설치한다. 
 
 [Microsoft Visual C++ 재배포 가능 패키지 최신 지원되는 다운로드]: https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
