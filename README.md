@@ -48,8 +48,8 @@ https://learn.microsoft.com/ko-kr/windows/win32/WinAuto/uiauto-securityoverview#
 
 #### 핫키
 ```
-Ctrl + Alt + H : 판서 모드 
-Ctrl + Alt + Q : 판서 숨기기 
+Ctrl + Alt + H : 판서/투명 모드
+Ctrl + Alt + Q : 판서 보이기/숨기기 
 Ctrl + Alt + Z : 프로그램 종료
 Ctrl + .  : 스크린 줌 인
 Ctrl + ,  : 스크린 줌 아웃
